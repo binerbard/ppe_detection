@@ -1,0 +1,12 @@
+boots
+mask
+no-mask
+glasses
+goggles
+gloves
+no-gloves
+hardhat
+no-safety-hardhat
+body
+shoes
+safety-vest
