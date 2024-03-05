@@ -99,8 +99,8 @@ If you encounter any issues or have questions about running the project, refer t
 
 ### Sample 1
 
-![IMAGE 1](https://github.com/binerbard/synapsis_challenge_AIEngineer/example/resource/download.png)
+![IMAGE 1](https://raw.githubusercontent.com/binerbard/synapsis_challenge_AIEngineer/d967e79999172085a3d34f2cbbd3289a1009665c/example/resource/download.png?token=GHSAT0AAAAAACPD7C5RGWJ2XLWJVNJKOCACZPG5MDA)
 
 ### Sample 2
 
-![IMAGE 1](https://github.com/binerbard/synapsis_challenge_AIEngineer/example/resource/sample2.png)
+![IMAGE 1](https://raw.githubusercontent.com/binerbard/synapsis_challenge_AIEngineer/d967e79999172085a3d34f2cbbd3289a1009665c/example/resource/sample2.png?token=GHSAT0AAAAAACPD7C5R7524QH2IRJ6NNV4IZPG5MUA)
