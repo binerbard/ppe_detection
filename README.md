@@ -79,7 +79,7 @@ This section will explain how to explain the lines of code in the listed reposit
 > **Example**
 >
 > ```python
-> python setup.py --media=image --src=./example/video/hardhat.mp4
+> python setup.py --media=video --src=./example/video/hardhat.mp4
 > ```
 
 5. **Follow Instructions:** Follow any on-screen instructions or documentation provided with the project to interact with or utilize its features.
